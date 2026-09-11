@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-	cout << "Hello, Platformer!" << endl;
+	cout << "Sup World" << endl;
 	return 0;
 }
